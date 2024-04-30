@@ -11,7 +11,7 @@
     } else {
     $conn -> query("DELETE from product where productid = ".$productId);
     sleep(2);
-    // header("Location: http://localhost/shopOnline/ui/ui/dbms-shoponline/With%20PHP/adminProductManage.php");
+    // header("Location: http://localhost/Shopclues/ui/ui/dbms-Shopclues/With%20PHP/adminProductManage.php");
     header("Location: ../adminProductManage.php");
     exit();
     } 

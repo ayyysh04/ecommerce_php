@@ -59,8 +59,8 @@
     // sleep(1);
     // // $conn->query("INSERT into cart values (".$personid.",".$productId.",".$productQty.",".(int)$productQty*(int)$oneCost['productprice'].")");
     // sleep(1);
-    // // header("Location: http://localhost/shopOnline/ui/ui/dbms-shoponline/With%20PHP/adminProductManage.php");
-    // header("Location: http://localhost/shoponline-v2/With%20PHP/customerProductView.php");
+    // // header("Location: http://localhost/Shopclues/ui/ui/dbms-Shopclues/With%20PHP/adminProductManage.php");
+    // header("Location: http://localhost/Shopclues-v2/With%20PHP/customerProductView.php");
     // exit();
     // } 
     // $conn->close();

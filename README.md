@@ -1,19 +1,18 @@
-[![open issues](https://img.shields.io/github/issues/sudhay23/ShopOnline-Web-App)](https://github.com/sudhay23/ShopOnline-Web-App/issues) &nbsp;
-[![GitHub contributors](https://img.shields.io/github/contributors/sudhay23/ShopOnline-Web-App)](https://github.com/sudhay23/ShopOnline-Web-App/graphs/contributors) &nbsp;
-[![Discord](https://img.shields.io/discord/893535629277818950?color=blueviolet&label=discord&logo=discord&logoColor=white)](https://discord.gg/yhtkaawfNq) &nbsp;
-![GitHub](https://img.shields.io/github/license/sudhay23/ShopOnline-Web-App?color=9cf) &nbsp;
-[![Deploy to the Web](https://github.com/sudhay23/ShopOnline-Web-App/actions/workflows/webhost.yml/badge.svg)](https://github.com/sudhay23/ShopOnline-Web-App/actions/workflows/webhost.yml)
-[![Deploy to the Web on PR](https://github.com/sudhay23/ShopOnline-Web-App/actions/workflows/webhost_pr.yml/badge.svg)](https://github.com/sudhay23/ShopOnline-Web-App/actions/workflows/webhost_pr.yml)
+[![open issues](https://img.shields.io/github/issues/sudhay23/Shopclues-Web-App)](https://github.com/ayyysh04/ecommerce_php/issues) &nbsp;
+[![GitHub contributors](https://img.shields.io/github/contributors/sudhay23/Shopclues-Web-App)](https://github.com/ayyysh04/ecommerce_php/graphs/contributors) &nbsp;
+![GitHub](https://img.shields.io/github/license/sudhay23/Shopclues-Web-App?color=9cf) &nbsp;
+[![Deploy to the Web](https://github.com/ayyysh04/ecommerce_php/actions/workflows/webhost.yml/badge.svg)](https://github.com/ayyysh04/ecommerce_php/actions/workflows/webhost.yml)
+[![Deploy to the Web on PR](https://github.com/ayyysh04/ecommerce_php/actions/workflows/webhost_pr.yml/badge.svg)](https://github.com/ayyysh04/ecommerce_php/actions/workflows/webhost_pr.yml)
 
-# ShopOnline - WebApp (Celebrating open-source 🎉)
-
+# Shopclues - WebApp (Celebrating open-source 🎉)
 
 
--   We're **hosted** at [ShopOnline](https://shoponline-web.000webhostapp.com/) (We are currently facing some issues with registration/login, this will be fixed soon).
+
+-   We're **hosted** at [Shopclues](https://Shopclues-web.000webhostapp.com/) (We are currently facing some issues with registration/login, this will be fixed soon).
 
 ### An E-commerce platform in the form of a Web Application incorporating concepts of DBMS along with PHP, HTML, CSS.
 
-The ShopOnline Web Application was developed using HTML, CSS, JavaScript, PHP, phpMyAdmin, MySQL and XAMPP as a result of implementation of key concepts of DBMS such as normalization for an efficient database design.
+The Shopclues Web Application was developed using HTML, CSS, JavaScript, PHP, phpMyAdmin, MySQL and XAMPP as a result of implementation of key concepts of DBMS such as normalization for an efficient database design.
 
 Project maintainers:
 
@@ -87,13 +86,6 @@ https://user-images.githubusercontent.com/51874681/136703411-5ef185d4-b12f-455d-
 
 https://user-images.githubusercontent.com/51874681/136703422-b82d0dcb-d00c-4091-89fa-ca3d0d1644f7.mp4
 
-
-
-
-
-## Contact Us
-
--   [Join Our Discord](https://discord.gg/yhtkaawfNq)
 
 ## Installation
 

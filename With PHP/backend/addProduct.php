@@ -35,7 +35,7 @@ include 'databaseConnect.php';
       $stmt->bind_param("isiisis", $productId, $productName, $productPrice, $productStock, $productDescription, $productCap, $productPhoto);
       $stmt->execute();
     //   echo "New product inserted sucessfully";
-        // header("Location: http://localhost/shopOnline/ui/ui/dbms-shoponline/With%20PHP/adminProductManage.php");
+        // header("Location: http://localhost/Shopclues/ui/ui/dbms-Shopclues/With%20PHP/adminProductManage.php");
         header("Location: ../adminProductManage.php");
       //include '../adminProductManage.php';
         exit();
