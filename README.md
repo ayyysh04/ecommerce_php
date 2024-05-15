@@ -14,14 +14,6 @@
 
 The Shopclues Web Application was developed using HTML, CSS, JavaScript, PHP, phpMyAdmin, MySQL and XAMPP as a result of implementation of key concepts of DBMS such as normalization for an efficient database design.
 
-Project maintainers:
-
--   Sudhay Senthilkumar ([@sudhay23](https://github.com/sudhay23))
--   Sandeep Rajakrishnan ([@san-coding](https://github.com/san-coding))
--   Raswanth R
--   Tarun.K.B
-
-
 ## Screenshots
 
 Screenshots are not in the order of the workflow, please visit the hosted live website to check out the project.
